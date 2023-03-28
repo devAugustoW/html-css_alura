@@ -19,7 +19,7 @@ O curso traz uma grande revisão de tudo que é preciso para montar um web site.
 ✅ Reutilização de estilos<br>
 ✅ Pseudo-classes CSS<br><br>
 O projeto pode ser visualização pelo link abaixo:<br>
-https://devaugustow.github.io/html_css-alura/alura-plus/index.html<br><br>
+https://devaugustow.github.io/html-css_alura/alura-plus/index.html<br><br>
 
 # Projeto Alura Store
 Criação de  web site responsivo por meio de CSS Grid Layout...<br>
