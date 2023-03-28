@@ -31,7 +31,7 @@ Criação de  web site responsivo por meio de CSS Grid Layout...<br>
 ✅ Espaçamento entre linhas e colunas<br>
 ✅ Media queries para diferentes telas<br><br>
 O projeto pode ser visualização pelo link abaixo:<br>
-https://devaugustow.github.io/html_css-alura/alura-store/index.html
+https://devaugustow.github.io/html_css-alura/alura-store/index.html<br><br>
 
 # Projeto HZC Skate
 Trabalha conceitos de responsividade para telas de celular, tablet e desktop. Com algumas linhas de JavaScrpt que auxilia na mudança de posicionamento de elementos de uma tela para a outra.<br>
