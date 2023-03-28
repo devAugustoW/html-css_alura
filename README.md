@@ -19,7 +19,7 @@ O curso traz uma grande revisão de tudo que é preciso para montar um web site.
 ✅ Reutilização de estilos<br>
 ✅ Pseudo-classes CSS<br><br>
 O projeto pode ser visualização pelo link abaixo:<br>
-<a href="https://devaugustow.github.io/html_css-alura/alura-plus/index.html">https://devaugustow.github.io/html_css-alura/alura-plus/index.html</a><br><br>
+<a href="https://devaugustow.github.io/html-css_alura/alura-plus/index.html">https://devaugustow.github.io/html_css-alura/alura-plus/index.html</a><br><br>
 
 # Projeto Alura Store
 Criação de  web site responsivo por meio de CSS Grid Layout...<br>
@@ -31,7 +31,7 @@ Criação de  web site responsivo por meio de CSS Grid Layout...<br>
 ✅ Espaçamento entre linhas e colunas<br>
 ✅ Media queries para diferentes telas<br><br>
 O projeto pode ser visualização pelo link abaixo:<br>
-https://devaugustow.github.io/html_css-alura/alura-store/index.html<br><br>
+https://devaugustow.github.io/html-css_alura/alura-store/index.html<br><br>
 
 # Projeto HZC Skate
 Trabalha conceitos de responsividade para telas de celular, tablet e desktop. Com algumas linhas de JavaScrpt que auxilia na mudança de posicionamento de elementos de uma tela para a outra.<br>
@@ -46,4 +46,4 @@ Trabalha conceitos de responsividade para telas de celular, tablet e desktop. Co
 ✅ Media queries<br>
 ✅ JavaScript<br><br>
 O projeto pode ser visualização pelo link abaixo:
-https://devaugustow.github.io/html_css-alura/hzc-skate/index.html
+https://devaugustow.github.io/html-css_alura/hzc-skate/index.html
