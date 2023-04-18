@@ -11,6 +11,8 @@
     --laranja: #E89B00;
     --azul: #002F52;
     --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+
+    --fonte-secundaria: 'Josefin Sans';
 }
 
 body{
@@ -264,4 +266,26 @@ hr {
 .rodape {
     background-color: var(--branco);
     padding: 1em;
+}
+/* -------------------------------------------- */
+.container__titulo {
+    display: none;
+}
+
+/* INÍCIO DAS MEDIAS QUERIES */
+@media (min-width: 1024px) {
+    .container__titulo, 
+    .container__titulo--negrito{
+        font-family: var(--fonte-secundaria);
+        font-size: 30px;
+    }
+
+    .container__titulo {
+        font-weight: 400;
+        display: block;
+    }
+
+    .container__titulo--negrito {
+        font-weight: 700;
+    }
 }

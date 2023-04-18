@@ -8,13 +8,14 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"/>
 
     <!-- Font-->
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200;300;400;500;600;700&family=Poppins:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
     
     <link rel="stylesheet" href="reset.css">
     <link rel="stylesheet" href="index.css">
 
     <title>Alura Books</title>
 </head>
+
 <body>
     <header class="cabecalho">
         <div class="container">
@@ -43,7 +44,15 @@
                 </li>
             </ul>
             <img src="imgs/header/Logo.svg" alt="Logo da Alura Books">
+            <h1 class="container__titulo"> <b class="container__titulo--negrito">Alura</b> Books </h1>
         </div>
+
+        <ul class="opcoes">
+            <li class="opcoes__item">Categoria</li>
+            <li class="opcoes__item">Categoria</li>
+            <li class="opcoes__item"> <a href="#" class="opcoes__link">Favoritos</a></li>
+            <li class="opcoes__item"> <a href="#" class="opcoes__link">Minha estante</a></li>
+        </ul>
 
         <div class="container">
             <a href="#"><img src="imgs/header/Favoritos.svg" alt="meus favoritos"></a>
@@ -114,7 +123,7 @@
 
     </section>
 
-    <section>
+    <section class="carroussel">
         <h2 class="carrossel__titulo">Mais Vendidos</h2>
 
         <!-- Slider main container -->
